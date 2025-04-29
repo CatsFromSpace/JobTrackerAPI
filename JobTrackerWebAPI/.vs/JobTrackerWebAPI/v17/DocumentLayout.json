@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giant\\Documents\\!projects\\job tracker app\\JobTrackerAPI\\JobTrackerWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F383FA8-4F20-4E9E-8293-637459F45EEB}|JobTrackerWebAPI.csproj|c:\\users\\giant\\documents\\!projects\\job tracker app\\jobtrackerapi\\jobtrackerwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F383FA8-4F20-4E9E-8293-637459F45EEB}|JobTrackerWebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F383FA8-4F20-4E9E-8293-637459F45EEB}|JobTrackerWebAPI.csproj|c:\\users\\giant\\documents\\!projects\\job tracker app\\jobtrackerapi\\jobtrackerwebapi\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F383FA8-4F20-4E9E-8293-637459F45EEB}|JobTrackerWebAPI.csproj|solutionrelative:models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F383FA8-4F20-4E9E-8293-637459F45EEB}|JobTrackerWebAPI.csproj|c:\\users\\giant\\documents\\!projects\\job tracker app\\jobtrackerapi\\jobtrackerwebapi\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F383FA8-4F20-4E9E-8293-637459F45EEB}|JobTrackerWebAPI.csproj|solutionrelative:services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F383FA8-4F20-4E9E-8293-637459F45EEB}|JobTrackerWebAPI.csproj|c:\\users\\giant\\documents\\!projects\\job tracker app\\jobtrackerapi\\jobtrackerwebapi\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F383FA8-4F20-4E9E-8293-637459F45EEB}|JobTrackerWebAPI.csproj|solutionrelative:controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F383FA8-4F20-4E9E-8293-637459F45EEB}|JobTrackerWebAPI.csproj|c:\\users\\giant\\documents\\!projects\\job tracker app\\jobtrackerapi\\jobtrackerwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F383FA8-4F20-4E9E-8293-637459F45EEB}|JobTrackerWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F383FA8-4F20-4E9E-8293-637459F45EEB}|JobTrackerWebAPI.csproj|c:\\users\\giant\\documents\\!projects\\job tracker app\\jobtrackerapi\\jobtrackerwebapi\\data\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F383FA8-4F20-4E9E-8293-637459F45EEB}|JobTrackerWebAPI.csproj|solutionrelative:data\\jobdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giant\\Documents\\!projects\\job tracker app\\JobTrackerAPI\\JobTrackerWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\giant\\Documents\\!projects\\job tracker app\\JobTrackerAPI\\JobTrackerWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:32:28.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\giant\\Documents\\!projects\\job tracker app\\JobTrackerAPI\\JobTrackerWebAPI\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\giant\\Documents\\!projects\\job tracker app\\JobTrackerAPI\\JobTrackerWebAPI\\Controllers\\JobController.cs",
+              "RelativeToolTip": "Controllers\\JobController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:28:50.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "C:\\Users\\giant\\Documents\\!projects\\job tracker app\\JobTrackerAPI\\JobTrackerWebAPI\\Services\\JobService.cs",
+              "RelativeDocumentMoniker": "Services\\JobService.cs",
+              "ToolTip": "C:\\Users\\giant\\Documents\\!projects\\job tracker app\\JobTrackerAPI\\JobTrackerWebAPI\\Services\\JobService.cs",
+              "RelativeToolTip": "Services\\JobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:21:06.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "C:\\Users\\giant\\Documents\\!projects\\job tracker app\\JobTrackerAPI\\JobTrackerWebAPI\\Models\\JobApplication.cs",
+              "RelativeDocumentMoniker": "Models\\JobApplication.cs",
+              "ToolTip": "C:\\Users\\giant\\Documents\\!projects\\job tracker app\\JobTrackerAPI\\JobTrackerWebAPI\\Models\\JobApplication.cs",
+              "RelativeToolTip": "Models\\JobApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:20:28.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\giant\\Documents\\!projects\\job tracker app\\JobTrackerAPI\\JobTrackerWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\giant\\Documents\\!projects\\job tracker app\\JobTrackerAPI\\JobTrackerWebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T15:22:33.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\giant\\Documents\\!projects\\job tracker app\\JobTrackerAPI\\JobTrackerWebAPI\\Data\\JobDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\JobDbContext.cs",
+              "ToolTip": "C:\\Users\\giant\\Documents\\!projects\\job tracker app\\JobTrackerAPI\\JobTrackerWebAPI\\Data\\JobDbContext.cs",
+              "RelativeToolTip": "Data\\JobDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T17:40:10.354Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
